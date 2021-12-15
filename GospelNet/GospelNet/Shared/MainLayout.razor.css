@@ -1,67 +1,17 @@
-.page {
-    position: relative;
-    display: flex;
-    flex-direction: column;
-
-    background-color: black;
-}
 
 main {
-    flex: 1;
-}
-
-.sidebar {
-    background-color: black;
-}
-
-.top-row {
-    background-color: black;
-    justify-content: flex-end;
-    height: 1rem;
-    display: flex;
-    align-items: center;
-}
-
-.bottom-row {
-    background-color: black;
-    justify-content: flex-end;
-    height: 1rem;
-    display: flex;
-    align-items: center;
-}
-
-.main 
-{
-    background-color: white;
-}
-
-
-@media (min-width: 641px) {
-    .page {
-        flex-direction: row;
-    }
-
-    .sidebar {
-        width: 250px;
-        height: 100vh;
-        position: sticky;
-        top: 0;
-    }
-
-    .top-row {
-        position: sticky;
-        top: 0;
-        z-index: 1;
-    }
-
-    .top-row.auth ::deep a:first-child {
-        flex: 1;
-        text-align: right;
-        width: 0;
-    }
-
-    .top-row, article {
-        padding-left: 2rem !important;
-        padding-right: 1.5rem !important;
-    }
+    position: fixed;
+    padding: 5px;
+    margin: 0;
+    top: 0px;
+    left: 0px;
+    right: 0px;
+    bottom: 0px;
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(0deg, rgba(0,0,0,1) 5%, rgba(255,255,255,1) 25%, rgba(255,255,255,1) 97%, rgba(0,0,0,1) 100%);
+    overflow: auto;
+    color: black;
+    text-shadow: 1px 2px 1px rgba(0,0,0,0.2);
+    text-align: center;
 }
