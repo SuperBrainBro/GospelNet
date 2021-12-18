@@ -10,7 +10,6 @@
 
   <ItemGroup>
     <None Include="wwwroot\css\GN.css" />
-    <None Include="wwwroot\favicon.ico" />
     <None Include="wwwroot\index.html" />
     <None Include="wwwroot\service-worker.js" />
     <None Include="wwwroot\service-worker.published.js" />
