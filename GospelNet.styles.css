@@ -22,3 +22,10 @@ main[b-6l6sctbx64] {
 
     font-family: 'Readex Pro', sans-serif;
 }
+
+@media (pointer:none), (pointer:coarse) {
+    main[b-6l6sctbx64]
+    {
+        background: white;
+    }
+}
