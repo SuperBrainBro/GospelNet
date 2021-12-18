@@ -157,7 +157,7 @@
       "url": "css\/GN.css"
     },
     {
-      "hash": "sha256-ciEyjxhrs6\/ba3FxBiAn0XnznwduXNDOYX4\/ElhE4Y4=",
+      "hash": "sha256-tlbIzawJ+nH3znnt8\/\/FQLbLPZFKWoeu+qkQq1+Dh7s=",
       "url": "favicon.png"
     },
     {
@@ -181,5 +181,5 @@
       "url": "ReadexPro-Regular.ttf"
     }
   ],
-  "version": "5eWlpF1l"
+  "version": "VxUz4rpz"
 };
