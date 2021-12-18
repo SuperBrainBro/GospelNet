@@ -153,14 +153,6 @@
       "url": "GospelNet.styles.css"
     },
     {
-      "hash": "sha256-z8OR40MowJ8GgK6P89Y+hiJK5+cclzFHzLhFQLL92bg=",
-      "url": "css\/bootstrap\/bootstrap.min.css"
-    },
-    {
-      "hash": "sha256-gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ=",
-      "url": "css\/bootstrap\/bootstrap.min.css.map"
-    },
-    {
       "hash": "sha256-4Z2REPA0HmwsyVOm0YFcY+R64LkntbGnnrYDXcJDOlQ=",
       "url": "css\/GN.css"
     },
@@ -169,15 +161,7 @@
       "url": "favicon.ico"
     },
     {
-      "hash": "sha256-DbpQaq68ZSb5IoPosBErM1QWBfsbTxpJqhU0REi6wP4=",
-      "url": "icon-192.png"
-    },
-    {
-      "hash": "sha256-oEo6d+KqX5fjxTiZk\/w9NB3Mi0+ycS5yLwCKwr4IkbA=",
-      "url": "icon-512.png"
-    },
-    {
-      "hash": "sha256-WqVJuLefhUItksuDpi7DZkjcA0vNX\/rzMHrno7mZLFE=",
+      "hash": "sha256-74NE9U5Mk4HMxSAuUN0PsrhOBvsTqgLzMX5YIXdBj6M=",
       "url": "index.html"
     },
     {
@@ -189,5 +173,5 @@
       "url": "ReadexPro-Regular.ttf"
     }
   ],
-  "version": "UoK9gjIV"
+  "version": "+fK9r6vX"
 };
