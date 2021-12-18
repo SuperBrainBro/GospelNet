@@ -1,2 +1,2 @@
 # GospelNet
- Website for a no-bs Bible.
+ Website for a no-bs Bible. https://gospel-net.xyz/

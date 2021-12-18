@@ -20,8 +20,11 @@ jobs:
     
     - name: Publish
       run: dotnet publish GospelNet/GospelNet.csproj -c Release -o release --nologo
-    
-    - name: Deploy
+      
+    - name: Add .nojekyll file
+      run: touch release/wwwroot/.nojekyll
+      
+    - name: Deploy    
       uses: JamesIves/github-pages-deploy-action@4.1.7
       with:
         branch: gh-pages
