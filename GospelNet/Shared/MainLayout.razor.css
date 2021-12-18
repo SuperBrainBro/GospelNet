@@ -20,3 +20,10 @@ main {
 
     font-family: 'Readex Pro', sans-serif;
 }
+
+@media (pointer:none), (pointer:coarse) {
+    main
+    {
+        background: white;
+    }
+}
