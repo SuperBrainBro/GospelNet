@@ -9,7 +9,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <None Include="wwwroot\css\GN.css" />
+    <None Include="wwwroot\css\gospel-net-common.css" />
     <None Include="wwwroot\index.html" />
     <None Include="wwwroot\service-worker.js" />
     <None Include="wwwroot\service-worker.published.js" />
