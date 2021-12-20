@@ -1,13 +1,15 @@
-﻿<b><em>@Heading</em></b>
+﻿<div class="bSection">
+<b><em>@Heading</em></b>
 <br />
 <p>
     @Text
 </p>
+</div>
 
 @code {
     [Parameter]
-    public string Heading { get; set; }
+    public string Heading { get; set; } = "Section Heading";
 
     [Parameter]
-    public string Text { get; set; }
+    public string Text { get; set; } = "Section Text";
 }
