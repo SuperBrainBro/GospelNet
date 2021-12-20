@@ -1,6 +1,6 @@
 {
-  "name": "GospelNet",
-  "short_name": "GospelNet",
+  "name": "Gospel Net",
+  "short_name": "Gospel Net",
   "start_url": "./",
   "": null,
   "display": "fullscreen",
@@ -11,6 +11,7 @@
   "author": "Vincent Jenei",
   "keywords": [ "Bible", "Games", "Gospel" ],
   "version": "6.9",
+  "id": "/",
   "icons": [
     {
       "src": "icon-512.png",
@@ -21,32 +22,6 @@
       "src": "icon-192.png",
       "type": "image/png",
       "sizes": "192x192"
-    }
-  ],
-  "shortcuts": [
-    {
-      "name": "Matthew",
-      "short_name": "Matthew",
-      "description": "The first gospel book.",
-      "url": "/matthew"
-    },
-    {
-      "name": "Mark",
-      "short_name": "Mark",
-      "description": "The second gospel book.",
-      "url": "/matthew"
-    },
-    {
-      "name": "Luke",
-      "short_name": "Luke",
-      "description": "The third gospel book.",
-      "url": "/matthew"
-    },
-    {
-      "name": "John",
-      "short_name": "John",
-      "description": "The fourth gospel book.",
-      "url": "/matthew"
     }
   ]
 }
