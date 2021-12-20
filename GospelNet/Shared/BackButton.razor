@@ -1,8 +1,11 @@
 ﻿<div class="BackButton">
 <ul>
-  <li><a href="/">Back</a></li>
+  <li><a href=@Destination>Back</a></li>
 </ul>
 </div>
 
-@code {
+@code 
+{
+	[Parameter]
+    public string Destination { get; set; } = "/";
 }
