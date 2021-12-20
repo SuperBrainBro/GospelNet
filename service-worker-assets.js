@@ -165,7 +165,7 @@
       "url": "icon-512.png"
     },
     {
-      "hash": "sha256-Hxhy26BsPnwrLJ27GMFEgW\/wKzeK+5\/MR0XcxqjPG\/w=",
+      "hash": "sha256-BCQANmpzU8iAPdh76Ibhe6nVMCtKhY\/9OzqRIbYLa4Q=",
       "url": "index.html"
     },
     {
@@ -177,5 +177,5 @@
       "url": "ReadexPro-Regular.ttf"
     }
   ],
-  "version": "SQp2jmVU"
+  "version": "sloAxcG0"
 };
