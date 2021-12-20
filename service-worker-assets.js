@@ -169,7 +169,7 @@
       "url": "index.html"
     },
     {
-      "hash": "sha256-VW57lC5x3exstQ07u48OH6f8aFL6IjJJfjNsgSaVJ9o=",
+      "hash": "sha256-zBOACD5xcFwVWN0PcMY8ny2rmdLpfxbtoZ1TNLsgrR4=",
       "url": "manifest.json"
     },
     {
@@ -177,5 +177,5 @@
       "url": "ReadexPro-Regular.ttf"
     }
   ],
-  "version": "8DsW4ppN"
+  "version": "zbYi5EU1"
 };
