@@ -10,6 +10,10 @@
     font-family: 'Readex Pro', sans-serif;
 }
 
+main{
+    padding-top: 1%;
+    padding-bottom: 2%;
+}
 li.games
 {
     display: none;
@@ -96,7 +100,7 @@ li a
         }
         main 
         {
-            background: linear-gradient(0deg, rgba(0,0,0,1) 5%, rgba(255,255,255,1) 25%, rgba(255,255,255,1) 97%, rgba(0,0,0,1) 100%);
+            background: linear-gradient(0deg, rgba(0,0,0,1) 0%, rgba(255,255,255,1) 8%, rgba(255,255,255,1) 92%, rgba(0,0,0,1) 100%);
             color: black;
         }
     }
