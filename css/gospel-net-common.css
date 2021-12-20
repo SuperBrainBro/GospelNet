@@ -1,0 +1,75 @@
+﻿body {
+    position: fixed;
+    top: 0px;
+    bottom: 0px;
+    right: 0px;
+    left: 0px;
+    background: white;
+    color: black;
+    text-shadow: 1px 2px 1px rgba(0,0,0,0.2);
+    text-align: center;
+    font-family: 'Readex Pro', sans-serif;
+}
+
+main {
+    background: white;
+}
+
+li.games {
+    display: none;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: auto;
+    background-color: transparent;
+}
+
+li a {
+    display: flex;
+    padding: 4px 8px;
+    text-decoration: none;
+    color: black;
+}
+
+    li a:hover {
+        background-color: black;
+        color: white;
+    }
+
+
+@media (pointer: fine) {
+    body {
+        background: white;
+    }
+
+    main {
+        background: linear-gradient(0deg, rgba(0,0,0,1) 5%, rgba(255,255,255,1) 25%, rgba(255,255,255,1) 97%, rgba(0,0,0,1) 100%);
+    }
+
+    li.games {
+        display: block;
+    }
+}
+
+@media (prefers-color-scheme: dark) {
+    body {
+        background: black;
+        color: white;
+    }
+
+    main {
+        background: black
+    }
+
+    li a {
+        color: white;
+    }
+
+        li a:hover {
+            background-color: white;
+            color: black;
+        }
+}
