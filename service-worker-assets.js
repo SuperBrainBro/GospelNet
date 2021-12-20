@@ -157,11 +157,11 @@
       "url": "favicon.png"
     },
     {
-      "hash": "sha256-DbpQaq68ZSb5IoPosBErM1QWBfsbTxpJqhU0REi6wP4=",
+      "hash": "sha256-e1usK0R8pOJBTAhXAt9GVuXoPH49mTnTuKgssTLqCwg=",
       "url": "icon-192.png"
     },
     {
-      "hash": "sha256-oEo6d+KqX5fjxTiZk\/w9NB3Mi0+ycS5yLwCKwr4IkbA=",
+      "hash": "sha256-jXRZIjOPBXfXoxafDD8q4FHErjIijHtrKg4JDleFN6w=",
       "url": "icon-512.png"
     },
     {
@@ -169,7 +169,7 @@
       "url": "index.html"
     },
     {
-      "hash": "sha256-6QhCr6PuhPG30urp5g73+d+SaytSQUVbFbWIAGQrJlk=",
+      "hash": "sha256-VW57lC5x3exstQ07u48OH6f8aFL6IjJJfjNsgSaVJ9o=",
       "url": "manifest.json"
     },
     {
@@ -177,5 +177,5 @@
       "url": "ReadexPro-Regular.ttf"
     }
   ],
-  "version": "DtKPQgia"
+  "version": "8DsW4ppN"
 };

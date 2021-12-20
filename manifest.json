@@ -6,7 +6,10 @@
   "background_color": "#ffffff",
   "theme_color": "#000000",
   "prefer_related_applications": false,
-
+  "description": "Bloatless Bible.",
+  "author": "Vincent Jenei",
+  "keywords": [ "Bible", "Games", "Gospel" ],
+  "version": "6.9",
   "icons": [
     {
       "src": "icon-512.png",
