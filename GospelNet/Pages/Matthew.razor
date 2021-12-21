@@ -1,8 +1,8 @@
-﻿@page "/matthew"
+﻿@page "/matthew/{title?}"
 
-<PageTitle>Matthew</PageTitle>
+<PageTitle>@Title</PageTitle>
 
-<BibleBook Name=Matthew></BibleBook>
+<BibleBook Name=@Title></BibleBook>
 <section> <BibleChapter Number="1"></BibleChapter>
 	<BibleSection Heading="The Genealogy of Jesus the Messiah" Text="
 		This is the genealogy of Jesus the Messiah the son of David, the son of Abraham:
@@ -116,3 +116,13 @@
 		"></BibleSection>
 </section>
 <BackButton></BackButton>
+
+@code {
+    [Parameter]
+    public string? Title { get; set; }
+
+    protected override void OnInitialized()
+    {
+        Title = Title ?? "Matthew";
+    }
+}
