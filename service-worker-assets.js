@@ -149,7 +149,7 @@
       "url": "_framework\/System.Text.Json.dll"
     },
     {
-      "hash": "sha256-Z4B6xMadcB1qRa+WRNPyaO6NKUMZTQBVJIm3wM65xtc=",
+      "hash": "sha256-3XjMyr7zPgrJSNn8gIEZBuktVwG6qOs5z7+k7nouH24=",
       "url": "css\/gospel-net-common.css"
     },
     {
@@ -221,5 +221,5 @@
       "url": "ReadexPro-Regular.ttf"
     }
   ],
-  "version": "tgWkv1PN"
+  "version": "ZBioVbRk"
 };
