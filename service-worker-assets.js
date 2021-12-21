@@ -33,11 +33,11 @@
       "url": "_framework\/icudt.dat"
     },
     {
-      "hash": "sha256-SYUk\/OtDMaBUtWXRc7wdK02ULTJ8xjGgrgrIbB1peDg=",
+      "hash": "sha256-pKQmi1Tt0Q05ffoaobMO8l9BIZC8W8C9d04eInyVqD0=",
       "url": "_framework\/blazor.boot.json"
     },
     {
-      "hash": "sha256-m2jPsLxGOU8odeAof\/nHjLAxYei52a3\/PaQo0TD8Iok=",
+      "hash": "sha256-8FCwMLUJ9FiG+GtdMtrzsIBMqn9yaUIgkuinHF1WJ0o=",
       "url": "_framework\/GospelNet.dll"
     },
     {
@@ -157,6 +157,30 @@
       "url": "favicon.png"
     },
     {
+      "hash": "sha256-6lBPchluYHJ0jrLX9KL1GudDLiFMmU\/gxqJUJ7CsjAE=",
+      "url": "games\/bitzy\/Build\/1.3.2WebGL.data.unityweb"
+    },
+    {
+      "hash": "sha256-AsYIpV2ZhEAMgJ1189UB\/K27CRRRNPN7xNxUEmXRY1k=",
+      "url": "games\/bitzy\/Build\/1.3.2WebGL.json"
+    },
+    {
+      "hash": "sha256-njPTO6f1+ZOFQ9ikChaG6P+Z09L3EbTuh51nk0Vr\/9U=",
+      "url": "games\/bitzy\/Build\/1.3.2WebGL.wasm.code.unityweb"
+    },
+    {
+      "hash": "sha256-pp+S3K8pH4rDOZf8HHKR7QojG1KUNPQb1ZTEU0uwFo8=",
+      "url": "games\/bitzy\/Build\/1.3.2WebGL.wasm.framework.unityweb"
+    },
+    {
+      "hash": "sha256-yLQYmxgbnQpEN\/meFSK9PU5bubVn1gpRWR\/v84ZqX5Q=",
+      "url": "games\/bitzy\/Build\/UnityLoader.js"
+    },
+    {
+      "hash": "sha256-ehnae0+sZsGNxmoBi16yLU3E64DS\/69YvdZvEYJBPwQ=",
+      "url": "games\/bitzy\/index.html"
+    },
+    {
       "hash": "sha256-3l29E4Y6\/d0\/FBdsqtZ79AfpaSz94ZEdNLIQ5omEvsE=",
       "url": "games\/shift-shield\/Build\/Version1.1Web.data"
     },
@@ -197,5 +221,5 @@
       "url": "ReadexPro-Regular.ttf"
     }
   ],
-  "version": "ebUYJ28P"
+  "version": "tziqh8n7"
 };
