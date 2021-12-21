@@ -33,11 +33,11 @@
       "url": "_framework\/icudt.dat"
     },
     {
-      "hash": "sha256-p1MjxgmuCglaafYy2imRQFvkjA9VbaRGGWBiSQJe7aw=",
+      "hash": "sha256-SYUk\/OtDMaBUtWXRc7wdK02ULTJ8xjGgrgrIbB1peDg=",
       "url": "_framework\/blazor.boot.json"
     },
     {
-      "hash": "sha256-97N+wf63bwNtbdWXkv0kxPRkdgVsn\/vKY0Dy7fsL4+k=",
+      "hash": "sha256-m2jPsLxGOU8odeAof\/nHjLAxYei52a3\/PaQo0TD8Iok=",
       "url": "_framework\/GospelNet.dll"
     },
     {
@@ -149,12 +149,32 @@
       "url": "_framework\/System.Text.Json.dll"
     },
     {
-      "hash": "sha256-9Wx71Ae8vM6ymhYX1Ov+xKjLYjh4teSgm7Pa89wwWxk=",
+      "hash": "sha256-ctUgU0s5LPWzLZpa+rsQFCYoHAyP3IH5FmrIT1wcpxE=",
       "url": "css\/gospel-net-common.css"
     },
     {
       "hash": "sha256-tlbIzawJ+nH3znnt8\/\/FQLbLPZFKWoeu+qkQq1+Dh7s=",
       "url": "favicon.png"
+    },
+    {
+      "hash": "sha256-3l29E4Y6\/d0\/FBdsqtZ79AfpaSz94ZEdNLIQ5omEvsE=",
+      "url": "games\/shift-shield\/Build\/Version1.1Web.data"
+    },
+    {
+      "hash": "sha256-dx0xg1i9lW\/DkfTd8GUWVPYmYRzja33wQ18JEZ1g7D8=",
+      "url": "games\/shift-shield\/Build\/Version1.1Web.framework.js"
+    },
+    {
+      "hash": "sha256-Y70uF02RReBnpJnXfudlKhM3M08hcu3Cle+Crf+BShU=",
+      "url": "games\/shift-shield\/Build\/Version1.1Web.loader.js"
+    },
+    {
+      "hash": "sha256-QJGcWTVfcvrXMWUVSu65B83A8YfXxQ0\/pq\/\/dKIaNEg=",
+      "url": "games\/shift-shield\/Build\/Version1.1Web.wasm"
+    },
+    {
+      "hash": "sha256-m8IXVGV7fJnGIggIKShs3GqspJo7wkyGBZMhh0pvyIU=",
+      "url": "games\/shift-shield\/index.html"
     },
     {
       "hash": "sha256-e1usK0R8pOJBTAhXAt9GVuXoPH49mTnTuKgssTLqCwg=",
@@ -177,5 +197,5 @@
       "url": "ReadexPro-Regular.ttf"
     }
   ],
-  "version": "sloAxcG0"
+  "version": "ebUYJ28P"
 };
