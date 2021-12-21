@@ -7,9 +7,9 @@
   "linkerEnabled": true,
   "resources": {
     "assembly": {
-      "GospelNet.dll": "sha256-8FCwMLUJ9FiG+GtdMtrzsIBMqn9yaUIgkuinHF1WJ0o=",
+      "GospelNet.dll": "sha256-FSY+K1u+dVXbeYJ\/hHLYLVC0I\/nZAyT9UQu+St7Ezgs=",
       "Microsoft.AspNetCore.Components.dll": "sha256-AAGZqwwAjkT6Vy7taMHtC6\/86k2lLkd\/xF9QonnLlwA=",
-      "Microsoft.AspNetCore.Components.Web.dll": "sha256-03tPHPLltVMpajn385JsGgoMHJ6OaFd9h1TdzU8e940=",
+      "Microsoft.AspNetCore.Components.Web.dll": "sha256-dTaqEq48OLRdF11Rv6garMUxPlggvwWUK9Q\/LrNOG28=",
       "Microsoft.AspNetCore.Components.WebAssembly.dll": "sha256-Ph2ZOl\/LOY2cCUG\/S2iA61YUWIsDlcAHFxzdTG43rPw=",
       "Microsoft.Extensions.Configuration.Abstractions.dll": "sha256-zhFtW4kE16TdrpPne9I1Cu9o0KYzrS50VE9MVSifJg4=",
       "Microsoft.Extensions.Configuration.dll": "sha256-QPR+1IXNcA28b\/gXw3uZ8aRigHIZUJ1KWSH02kkCg7Q=",

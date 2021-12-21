@@ -33,11 +33,11 @@
       "url": "_framework\/icudt.dat"
     },
     {
-      "hash": "sha256-pKQmi1Tt0Q05ffoaobMO8l9BIZC8W8C9d04eInyVqD0=",
+      "hash": "sha256-lf+U3gPxwRLDRHzYW3eeudQ9doiwVVLVmHGQA4Sjcbg=",
       "url": "_framework\/blazor.boot.json"
     },
     {
-      "hash": "sha256-8FCwMLUJ9FiG+GtdMtrzsIBMqn9yaUIgkuinHF1WJ0o=",
+      "hash": "sha256-FSY+K1u+dVXbeYJ\/hHLYLVC0I\/nZAyT9UQu+St7Ezgs=",
       "url": "_framework\/GospelNet.dll"
     },
     {
@@ -45,7 +45,7 @@
       "url": "_framework\/Microsoft.AspNetCore.Components.dll"
     },
     {
-      "hash": "sha256-03tPHPLltVMpajn385JsGgoMHJ6OaFd9h1TdzU8e940=",
+      "hash": "sha256-dTaqEq48OLRdF11Rv6garMUxPlggvwWUK9Q\/LrNOG28=",
       "url": "_framework\/Microsoft.AspNetCore.Components.Web.dll"
     },
     {
@@ -221,5 +221,5 @@
       "url": "ReadexPro-Regular.ttf"
     }
   ],
-  "version": "GrJv0iEj"
+  "version": "Ef6IRIE+"
 };
