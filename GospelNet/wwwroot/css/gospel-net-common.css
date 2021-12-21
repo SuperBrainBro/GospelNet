@@ -67,7 +67,7 @@ li.games
 @media (prefers-color-scheme: light) {
     body 
     {
-        background: white;
+        background: black;
         color: black;
     }
 
