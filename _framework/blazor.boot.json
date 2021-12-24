@@ -7,7 +7,7 @@
   "linkerEnabled": true,
   "resources": {
     "assembly": {
-      "GospelNet.dll": "sha256-P+P4ayyRA6YYj9AY6GBEm5Jl8tNS5Tol5kQR7QIk9tE=",
+      "GospelNet.dll": "sha256-CBQ8kjXl\/YRbXQOaqYQ1d7hrVDdv9c7OQUPlN17+v8o=",
       "Microsoft.AspNetCore.Components.dll": "sha256-AAGZqwwAjkT6Vy7taMHtC6\/86k2lLkd\/xF9QonnLlwA=",
       "Microsoft.AspNetCore.Components.Web.dll": "sha256-dTaqEq48OLRdF11Rv6garMUxPlggvwWUK9Q\/LrNOG28=",
       "Microsoft.AspNetCore.Components.WebAssembly.dll": "sha256-Ph2ZOl\/LOY2cCUG\/S2iA61YUWIsDlcAHFxzdTG43rPw=",
@@ -28,11 +28,11 @@
       "System.Memory.dll": "sha256-mxH68hfT2Zi5DOKZuc\/0R8FgB0S\/z\/ETbq6OCIu5kQ8=",
       "System.Net.Http.dll": "sha256-X5R1ZMINm7KHi9RboNhaNmxOcjoXr5hetE\/GMYOvjlw=",
       "System.Net.Primitives.dll": "sha256-OSU4N4XKqTKgdoO9pe\/BfZLehucijGO4k8igT7uzo\/A=",
-      "System.Private.CoreLib.dll": "sha256-cyiMQQMgst\/GgujmL0GdqXdlPgJuKnEMrZwjj7KED54=",
+      "System.Private.CoreLib.dll": "sha256-E+WdlKBfLJVn0TXdZ86\/N8gw4oq0UOrhhSEeFGAf5pM=",
       "System.Private.Runtime.InteropServices.JavaScript.dll": "sha256-qi77gYVxMlCsbJi31oZqGaIW077cYdFy3LFk+dt2z6k=",
       "System.Private.Uri.dll": "sha256-LwHecQtBtNw8eIBpUBg03RXEXenbeHT18f0iFhb8M6M=",
       "System.Runtime.CompilerServices.Unsafe.dll": "sha256-NJPcPizDV6A4CjOnszxYro9mJMWaHq2cGM2\/A0bAFNY=",
-      "System.Runtime.dll": "sha256-fzubZSW6fXKHmgB2QKK6JivywcLwOu7\/nfsKsmKb2rE=",
+      "System.Runtime.dll": "sha256-y+l7KgxA5GcVMynodJXQ1qmhCuO10QdVZ9WoYOdm2rQ=",
       "System.Text.Encodings.Web.dll": "sha256-gUV2fOrOUGrNK6Oj1AxlN44sKTuN4hYA1DxX8xuRU2c=",
       "System.Text.Json.dll": "sha256-JqsfW50WFKqrjpqWUq9Ium5diNkoTKkumNONBkI3sik="
     },
