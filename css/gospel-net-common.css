@@ -1,7 +1,7 @@
 ﻿body
 {
-background: black;
-background-color: black:
+    background: black;
+    background-color: black;
     position: relative;
     top: 0px;
     bottom: 0px;
@@ -42,6 +42,7 @@ li.games
 {
     color: gray;
 }
+
 @media (prefers-color-scheme: dark) {
     body 
     {
@@ -64,6 +65,10 @@ li.games
             background-color: white;
             color: black;
         }
+
+    div.JesusText {
+        color: blue;
+    }
 }
 
 @media (prefers-color-scheme: light) {
@@ -88,6 +93,9 @@ li.games
             background-color: black;
             color: white;
         }
+    div.JesusText {
+        color: red;
+    }
 }
 
 @media (pointer: fine) 
