@@ -2,9 +2,11 @@
 <div class="bSection">
 <b><em>@Heading</em></b>
 <br />
+<div class=@Id>
 <p>
     @Text
 </p>
+</div>
 </div>
 </section>
 
@@ -14,4 +16,17 @@
 
     [Parameter]
     public string Text { get; set; } = "Section Text";
+
+    [Parameter]
+    public bool Jesus { get; set; } = false;
+
+    public string Id = "RegularText";
+
+    protected override void OnInitialized()
+    {
+        if (Jesus)
+        {
+            Id = "JesusText";
+        }
+    }
 }
