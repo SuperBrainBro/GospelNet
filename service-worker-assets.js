@@ -33,11 +33,11 @@
       "url": "_framework\/icudt.dat"
     },
     {
-      "hash": "sha256-\/nd53HOFoxEBGFMft0zNcbmDeo3rIKy8mgGI1jWXM1Q=",
+      "hash": "sha256-FGdokbyQ+4uRoU0Np4on1yYVLLzyYA\/PkF90rxImNdE=",
       "url": "_framework\/blazor.boot.json"
     },
     {
-      "hash": "sha256-TikibfnqwxhWzSjKSdGu9\/ICjcb7Lu5ZY+UzO3Gx0Qo=",
+      "hash": "sha256-g\/opEnn9RZqQOFVM6ac6FyobmzUvuOsbysSKuQFOPBg=",
       "url": "_framework\/GospelNet.dll"
     },
     {
@@ -153,7 +153,7 @@
       "url": "404.md"
     },
     {
-      "hash": "sha256-uxJ1fLXVOrGQRXWly16\/YGGIY3qHGxMT20vSHMgJBfU=",
+      "hash": "sha256-ymQYG0gfQuaYblYBhnoYTLX0U\/ajJsYgB8lYrL80Tz0=",
       "url": "css\/gospel-net-common.css"
     },
     {
@@ -213,7 +213,7 @@
       "url": "icon-512.png"
     },
     {
-      "hash": "sha256-fejb7ubMV1ENao6ZYg6SOdlTKJnG7+Ef6ZNIj\/N+9gI=",
+      "hash": "sha256-ZW9wYF88I\/wumiPfh\/1iPVa2WFPSL+cHwvIils8opUA=",
       "url": "index.html"
     },
     {
@@ -225,5 +225,5 @@
       "url": "ReadexPro-Regular.ttf"
     }
   ],
-  "version": "QYqb9+pQ"
+  "version": "Gv6GWvmw"
 };
