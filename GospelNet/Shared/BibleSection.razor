@@ -1,32 +1,31 @@
 ﻿<section>
-<div class="bSection">
-<b><em>@Heading</em></b>
-<br />
-<div class=@Id>
-<p>
-    @Text
-</p>
-</div>
-</div>
+	<div class="bSection">
+		<h3><i>@Heading</i></h3>
+		<div class=@Id>
+			<p>
+				@Text
+			</p>
+		</div>
+	</div>
 </section>
 
 @code {
-    [Parameter]
-    public string Heading { get; set; } = "Section Heading";
+	[Parameter]
+	public string Heading { get; set; } = "Section Heading";
 
-    [Parameter]
-    public string Text { get; set; } = "Section Text";
+	[Parameter]
+	public string Text { get; set; } = "Section Text";
 
-    [Parameter]
-    public bool Jesus { get; set; } = false;
+	[Parameter]
+	public bool Jesus { get; set; } = false;
 
-    public string Id = "RegularText";
+	public string Id = "RegularText";
 
-    protected override void OnInitialized()
-    {
-        if (Jesus)
-        {
-            Id = "JesusText";
-        }
-    }
+	protected override void OnInitialized()
+	{
+		if (Jesus)
+		{
+			Id = "JesusText";
+		}
+	}
 }

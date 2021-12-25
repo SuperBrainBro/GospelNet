@@ -1,24 +1,25 @@
-﻿body
-{
-    background: black;
-    background-color: black;
-    position: relative;
-    top: 0px;
-    bottom: 0px;
-    right: 0px;
-    left: 0px;
-    text-shadow: 1px 2px 1px rgba(0,0,0,0.2);
+﻿html {
+    height: 100%;
+    width: 100%;
+}
+
+body {
+    height: 100%;
     text-align: center;
     font-family: 'Readex Pro', sans-serif;
+    font-size: large;
+    background: black;
 }
 
-main{
+main {
+    height: 100%;
     padding-top: 1%;
-    padding-bottom: 2%;
+    padding-bottom: 1%;
+    padding-left: .5%;
+    padding-right: .5%;
 }
 
-ul 
-{
+ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
@@ -26,82 +27,70 @@ ul
     background-color: transparent;
 }
 
-li a
-{
+li a {
     display: flex;
     padding: 4px 8px;
     text-decoration: none;
 }
 
-    li a:hover 
-    {
-        background-color: black;
-    }
+h1 {
+    font-size: xx-large;
+}
 
-li.games 
-{
-    color: gray;
+h2 {
+    font-size: x-large;
+}
+
+h3 {
+    font-size: larger;
 }
 
 @media (prefers-color-scheme: dark) {
-    body 
-    {
-        background: black;
+    body {
         color: white;
+        text-shadow: 1px 2px 1px rgba(255,255,255,0.25);
     }
 
-    main 
-    {
+    main {
         background: black;
     }
 
-    li a 
-    {
+    li a {
         color: white;
     }
 
-        li a:hover 
-        {
+        li a:hover {
             background-color: white;
             color: black;
         }
 
     div.JesusText {
-        color: blue;
+        color: lightblue;
+        text-shadow: 1px 2px 1px rgba(255,255,255,0.5);
     }
 }
 
 @media (prefers-color-scheme: light) {
-    body 
-    {
-        background: black;
+    body {
+        color: black;
+        text-shadow: 1px 2px 1px rgba(0,0,0,0.25);
+    }
+
+    main {
+        background: white;
+    }
+
+    li a {
         color: black;
     }
 
-    main 
-    {
-        background: linear-gradient(0deg, rgba(0,0,0,1) 0%, rgba(255,255,255,1) 8%, rgba(255,255,255,1) 92%, rgba(0,0,0,1) 100%);
-    }
-
-    li a 
-    {
-        color: black;
-    }
-
-        li a:hover
-        {
+        li a:hover {
             background-color: black;
             color: white;
         }
+
     div.JesusText {
         color: red;
-    }
-}
-
-@media (pointer: fine) 
-{
-    li.games
-    {
-        color: white;
+        text-shadow: 1px 2px 1px rgba(0,0,0,0.1);
     }
 }
