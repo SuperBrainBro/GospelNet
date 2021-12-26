@@ -11,15 +11,14 @@
 	<li class="lukeLi"><a href="luke">Luke</a></li>
 	<li class="johnLi"><a href="john">John</a></li>
 </ul>
-<br />
 @if (Permission == "admin")
 {
+	<br />
 	<ul class="OtherUl">
 		<li class="gamesLi"><a href="games">Games</a></li>
 		<li class="aboutLi"><a href="about">About</a></li>
 	</ul>
 }
-<BibleFooter Message=""></BibleFooter>
 
 @code {
 	[Parameter]
