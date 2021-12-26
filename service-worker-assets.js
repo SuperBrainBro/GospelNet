@@ -213,7 +213,7 @@
       "url": "icon-512.png"
     },
     {
-      "hash": "sha256-ZW9wYF88I\/wumiPfh\/1iPVa2WFPSL+cHwvIils8opUA=",
+      "hash": "sha256-8Ogz2Idnm4Xj6l\/WINB3jYd\/dd69VvDo\/SscHNSlqqM=",
       "url": "index.html"
     },
     {
@@ -225,5 +225,5 @@
       "url": "ReadexPro-Regular.ttf"
     }
   ],
-  "version": "Gv6GWvmw"
+  "version": "9VwSp5ur"
 };
