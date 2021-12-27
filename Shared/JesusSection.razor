@@ -1,15 +1,11 @@
 ﻿<section class=@sectionId>
-	<div class="bSection">
-		@if (Heading != null)
-		{
-					<h3><i>@Heading</i></h3>
-		}
-		<div class=JesusText>
-			<p>
-				@Text
-			</p>
-		</div>
-	</div>
+	@if (Heading != null)
+	{
+		<aside><h3><i>@Heading</i></h3></aside>
+	}
+	<p class=JesusText>
+		@Text
+	</p>
 </section>
 
 @code {
