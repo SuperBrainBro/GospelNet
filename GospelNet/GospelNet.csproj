@@ -14,10 +14,6 @@
 
   <ItemGroup>
     <None Include="wwwroot\css\gospel-net-common.css" />
-    <None Include="wwwroot\games\shift-shield\Build\Version1.1Web.data" />
-    <None Include="wwwroot\games\shift-shield\Build\Version1.1Web.framework.js" />
-    <None Include="wwwroot\games\shift-shield\Build\Version1.1Web.loader.js" />
-    <None Include="wwwroot\games\shift-shield\Build\Version1.1Web.wasm" />
     <None Include="wwwroot\index.html" />
     <None Include="wwwroot\service-worker.js" />
     <None Include="wwwroot\service-worker.published.js" />
