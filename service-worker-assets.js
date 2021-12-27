@@ -33,11 +33,11 @@
       "url": "_framework\/icudt.dat"
     },
     {
-      "hash": "sha256-G1hyP7ox58A72iCpi3HFY0YHYEdTRWSYvlJ\/02JkX5w=",
+      "hash": "sha256-oVkGGfL\/XUePde4CyXm9v66ux5gdSlJh4hVcN9DjBjs=",
       "url": "_framework\/blazor.boot.json"
     },
     {
-      "hash": "sha256-maMEaY\/MDWpQYh2229GdfbiRuCaa7nXJnxgWMzMzHV4=",
+      "hash": "sha256-MsFXartfTrbSJb7eg0jOGwlk7lj3noGRrhB52pZrCUM=",
       "url": "_framework\/GospelNet.dll"
     },
     {
@@ -181,5 +181,5 @@
       "url": "ReadexPro-Regular.ttf"
     }
   ],
-  "version": "xmaCkxjx"
+  "version": "lP+F1RGT"
 };
