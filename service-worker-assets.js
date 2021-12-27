@@ -33,11 +33,11 @@
       "url": "_framework\/icudt.dat"
     },
     {
-      "hash": "sha256-nHrtPRjsZd1ucKXNxQdBCjx\/w6N\/meyfGRTcycvP76U=",
+      "hash": "sha256-G1hyP7ox58A72iCpi3HFY0YHYEdTRWSYvlJ\/02JkX5w=",
       "url": "_framework\/blazor.boot.json"
     },
     {
-      "hash": "sha256-P72aKHl5T3rSZVLmeU9OrgI+2JStwWyp7UMXl2FliZY=",
+      "hash": "sha256-maMEaY\/MDWpQYh2229GdfbiRuCaa7nXJnxgWMzMzHV4=",
       "url": "_framework\/GospelNet.dll"
     },
     {
@@ -161,50 +161,6 @@
       "url": "favicon.png"
     },
     {
-      "hash": "sha256-6lBPchluYHJ0jrLX9KL1GudDLiFMmU\/gxqJUJ7CsjAE=",
-      "url": "games\/bitzy\/Build\/1.3.2WebGL.data.unityweb"
-    },
-    {
-      "hash": "sha256-AsYIpV2ZhEAMgJ1189UB\/K27CRRRNPN7xNxUEmXRY1k=",
-      "url": "games\/bitzy\/Build\/1.3.2WebGL.json"
-    },
-    {
-      "hash": "sha256-njPTO6f1+ZOFQ9ikChaG6P+Z09L3EbTuh51nk0Vr\/9U=",
-      "url": "games\/bitzy\/Build\/1.3.2WebGL.wasm.code.unityweb"
-    },
-    {
-      "hash": "sha256-pp+S3K8pH4rDOZf8HHKR7QojG1KUNPQb1ZTEU0uwFo8=",
-      "url": "games\/bitzy\/Build\/1.3.2WebGL.wasm.framework.unityweb"
-    },
-    {
-      "hash": "sha256-yLQYmxgbnQpEN\/meFSK9PU5bubVn1gpRWR\/v84ZqX5Q=",
-      "url": "games\/bitzy\/Build\/UnityLoader.js"
-    },
-    {
-      "hash": "sha256-ehnae0+sZsGNxmoBi16yLU3E64DS\/69YvdZvEYJBPwQ=",
-      "url": "games\/bitzy\/index.html"
-    },
-    {
-      "hash": "sha256-3l29E4Y6\/d0\/FBdsqtZ79AfpaSz94ZEdNLIQ5omEvsE=",
-      "url": "games\/shift-shield\/Build\/Version1.1Web.data"
-    },
-    {
-      "hash": "sha256-dx0xg1i9lW\/DkfTd8GUWVPYmYRzja33wQ18JEZ1g7D8=",
-      "url": "games\/shift-shield\/Build\/Version1.1Web.framework.js"
-    },
-    {
-      "hash": "sha256-Y70uF02RReBnpJnXfudlKhM3M08hcu3Cle+Crf+BShU=",
-      "url": "games\/shift-shield\/Build\/Version1.1Web.loader.js"
-    },
-    {
-      "hash": "sha256-QJGcWTVfcvrXMWUVSu65B83A8YfXxQ0\/pq\/\/dKIaNEg=",
-      "url": "games\/shift-shield\/Build\/Version1.1Web.wasm"
-    },
-    {
-      "hash": "sha256-m8IXVGV7fJnGIggIKShs3GqspJo7wkyGBZMhh0pvyIU=",
-      "url": "games\/shift-shield\/index.html"
-    },
-    {
       "hash": "sha256-e1usK0R8pOJBTAhXAt9GVuXoPH49mTnTuKgssTLqCwg=",
       "url": "icon-192.png"
     },
@@ -225,5 +181,5 @@
       "url": "ReadexPro-Regular.ttf"
     }
   ],
-  "version": "kwtnqcxj"
+  "version": "xmaCkxjx"
 };
