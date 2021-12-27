@@ -4,23 +4,27 @@
 
 <BibleBook Name="Gospel Net"></BibleBook>
 
-<ul class="MainUl">
-	<li class="matthewLi"><a href="matthew">Matthew</a></li>
-	<li class="markLi"><a href="mark">Mark</a></li>
-	<li class="lukeLi"><a href="luke">Luke</a></li>
-	<li class="johnLi"><a href="john">John</a></li>
-</ul>
+<nav class="Main">
+	<ul class="GospelUl">
+		<li class="matthewLi"><a href="matthew">Matthew</a></li>
+		<li class="markLi"><a href="mark">Mark</a></li>
+		<li class="lukeLi"><a href="luke">Luke</a></li>
+		<li class="johnLi"><a href="john">John</a></li>
+	</ul>
+</nav>
 
 @if (Permission == "more" || Permission == "admin" || Permission == "max")
 {
-	<br />
-	<ul class="RevelationUI">
-		<li class="revelationsLi"><a href="revelations">Revelations</a></li>
-	</ul>
+	<nav class="More">
+		<br />
+		<ul class="RevelationUI">
+			<li class="revelationsLi"><a href="revelations">Revelations</a></li>
+		</ul>
+	</nav>
 }
 @if (Permission == "old" || Permission == "admin" || Permission == "max")
 {
-	<div class="OldUI">	
+	<nav class="Old">
 		<br />
 		<ul class="MosesUI">
 			<li class="genesisLi"><a href="genesis">Genesis</a></li>
@@ -29,30 +33,34 @@
 			<li class="numbersLi"><a href="numbers">Numbers</a></li>
 			<li class="deuteronomyLi"><a href="deuteronomy">Deuteronomy</a></li>
 		</ul>
-	</div>
+	</nav>
 }
 @if (Permission == "new" || Permission == "admin" || Permission == "max")
 {
-	<div class="NewUI">	
+	<nav class="New">
 		<br />
 		<ul class="LettersUI">
 			<li class="actsLi"><a href="acts">Acts</a></li>
 		</ul>
-	</div>
+	</nav>
 }
 @if (Permission == "apocrypha" || Permission == "admin")
 {
-	<br />
-	<ul class="ApocryphaUl">
-		<li class="apocLi"><a href="apoc">Apochrapha placeholder</a></li>
-	</ul>
+	<nav class="Apocrypha">
+		<br />
+		<ul class="ApocryphaUl">
+			<li class="apocryphaLi"><a href="apoc">Apochrypha placeholder</a></li>
+		</ul>
+	</nav>
 }
 @if (Permission == "admin")
 {
-	<br />
-	<ul class="OtherUl">
-		<li class="aboutLi"><a href="about">About</a></li>
-	</ul>
+	<nav class="Admin">
+		<br />
+		<ul class="OtherUl">
+			<li class="aboutLi"><a href="about">About</a></li>
+		</ul>
+	</nav>
 }
 
 @code {

@@ -2,9 +2,9 @@
 	<div class="bSection">
 		@if (Heading != null)
 		{
-			<h3><i>@Heading</i></h3>
+					<h3><i>@Heading</i></h3>
 		}
-		<div class=@textId>
+		<div class=JesusText>
 			<p>
 				@Text
 			</p>
@@ -17,11 +17,8 @@
 	public string? Heading { get; set; }
 
 	[Parameter]
-	public string Text { get; set; } = "Section Text";
+	public string Text { get; set; } = "Jesus Text";
 
 	[Parameter]
-	public string sectionId { get; set; } = "BibleSection";
-
-	[Parameter]
-	public string textId { get; set; } = "RegularText";
+	public string sectionId { get; set; } = "Jesus Section";
 }
