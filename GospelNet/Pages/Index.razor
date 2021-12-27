@@ -11,6 +11,43 @@
 	<li class="lukeLi"><a href="luke">Luke</a></li>
 	<li class="johnLi"><a href="john">John</a></li>
 </ul>
+
+@if (Permission == "more" || Permission == "admin" || Permission == "max")
+{
+	<br />
+	<ul class="RevelationUI">
+		<li class="revelationsLi"><a href="revelations">Revelations</a></li>
+	</ul>
+}
+@if (Permission == "old" || Permission == "admin" || Permission == "max")
+{
+	<div class="OldUI">	
+		<br />
+		<ul class="MosesUI">
+			<li class="genesisLi"><a href="genesis">Genesis</a></li>
+			<li class="exodusLi"><a href="exodus">Exodus</a></li>
+			<li class="leviticusLi"><a href="leviticus">Leviticus</a></li>
+			<li class="numbersLi"><a href="numbers">Numbers</a></li>
+			<li class="deuteronomyLi"><a href="deuteronomy">Deuteronomy</a></li>
+		</ul>
+	</div>
+}
+@if (Permission == "new" || Permission == "admin" || Permission == "max")
+{
+	<div class="NewUI">	
+		<br />
+		<ul class="LettersUI">
+			<li class="actsLi"><a href="acts">Acts</a></li>
+		</ul>
+	</div>
+}
+@if (Permission == "apocrypha" || Permission == "admin")
+{
+	<br />
+	<ul class="ApocryphaUl">
+		<li class="apocLi"><a href="apoc">Apochrapha placeholder</a></li>
+	</ul>
+}
 @if (Permission == "admin")
 {
 	<br />

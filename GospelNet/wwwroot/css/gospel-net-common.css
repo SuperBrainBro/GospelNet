@@ -64,6 +64,10 @@ h3 {
             color: black;
         }
 
+    li.revelations {
+        color: deeppink;
+    }
+
     div.JesusText {
         color: lightblue;
         text-shadow: 1px 2px 1px rgba(255,255,255,0.5);
@@ -88,6 +92,10 @@ h3 {
             background-color: black;
             color: white;
         }
+
+    li.revelations {
+        color: darkmagenta;
+    }
 
     div.JesusText {
         color: red;
