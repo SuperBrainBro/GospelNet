@@ -60,17 +60,17 @@ section.Part {
 }
 
 section.BibleSection {
-    padding: .5em;
+    padding-top: .5em;
+    padding-bottom: .5em;
 }
 section.JesusSection {
-    padding: .25em;
+    padding-top: .25em;
+    padding-bottom: .25em;
 }
 p {
     display: block;
     margin-block-start: .420em;
     margin-block-end: .420em;
-    margin-inline-start: 0px;
-    margin-inline-end: 0px;
 }
 
 @media (prefers-color-scheme: dark) {
