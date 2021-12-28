@@ -5,6 +5,10 @@
 	}
 	<div class=@textId>
 		<p><MultilineString Value=@Text /></p>
+		@if (LineBreak)
+		{
+			<br />
+		}
 	</div>
 </section>
 
@@ -20,4 +24,7 @@
 
 	[Parameter]
 	public string textId { get; set; } = "RegularText";
+
+	[Parameter]
+	public bool LineBreak { get; set; } = true;
 }

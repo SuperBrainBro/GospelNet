@@ -1,10 +1,14 @@
-﻿<section class=@sectionId>
+﻿<section class=@SectionId>
 	@if (Heading != null)
 	{
 		<aside><h3><i>@Heading</i></h3></aside>
 	}
 	<div class=JesusText>
 		<p><MultilineString Value=@Text /></p>
+		@if (LineBreak)
+		{
+			<br />
+		}
 	</div>
 </section>
 
@@ -16,5 +20,8 @@
 	public string Text { get; set; } = "Jesus Text";
 
 	[Parameter]
-	public string sectionId { get; set; } = "JesusSection";
+	public string SectionId { get; set; } = "JesusSection";
+
+	[Parameter]
+	public bool LineBreak { get; set; } = true;
 }
