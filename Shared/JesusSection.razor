@@ -3,9 +3,9 @@
 	{
 		<aside><h3><i>@Heading</i></h3></aside>
 	}
-	<p class=JesusText>
-		@Text
-	</p>
+	<div class=JesusText>
+		<p><MultilineString Value=@Text /></p>
+	</div>
 </section>
 
 @code {
@@ -16,5 +16,5 @@
 	public string Text { get; set; } = "Jesus Text";
 
 	[Parameter]
-	public string sectionId { get; set; } = "Jesus Section";
+	public string sectionId { get; set; } = "JesusSection";
 }
