@@ -35,14 +35,17 @@ li a {
 
 h1 {
     font-size: xx-large;
+    color: lightgray;
 }
 
 h2 {
     font-size: x-large;
+    color: lightgray;
 }
 
 h3 {
     font-size: larger;
+    color: lightgray;
 }
 
 @media (prefers-color-scheme: dark) {
