@@ -1,8 +1,51 @@
 ﻿<div class="bFooter">
-	<footer><i>@Message</i></footer>
+	@if (Small && Left)
+	{
+		<footer class="small left"><i>@Message</i></footer>
+	}
+	@if (Medium && Left)
+	{
+		<footer class="medium left"><i>@Message</i></footer>
+	}
+	@if (Large && Left)
+	{
+		<footer class="large left"><i>@Message</i></footer>
+	}
+	@if (Small && !Left)
+	{
+		<footer class="small"><i>@Message</i></footer>
+	}
+	@if (Medium && !Left)
+	{
+		<footer class="medium"><i>@Message</i></footer>
+	}
+	@if (Large && !Left)
+	{
+		<footer class="large"><i>@Message</i></footer>
+	}
+	@if (!Small && !Medium && !Large && Left)
+	{
+		<footer class="left"><i>@Message</i></footer>
+	}
+	@if (!Small && !Medium && !Large && !Left)
+	{
+		<footer><i>@Message</i></footer>
+	}
 </div>
 
 @code {
 	[Parameter]
 	public string Message { get; set; } = "Footer Message";
+
+	[Parameter]
+	public bool Small { get; set; } = false;
+
+	[Parameter]
+	public bool Medium { get; set; } = false;
+
+	[Parameter]
+	public bool Large { get; set; } = false;
+
+	[Parameter]
+	public bool Left { get; set; } = false;
 }

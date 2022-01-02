@@ -63,14 +63,37 @@ section.BibleSection {
     padding-top: .5em;
     padding-bottom: .5em;
 }
+
 section.JesusSection {
     padding-top: .25em;
     padding-bottom: .25em;
 }
+
 p {
     display: block;
     margin-block-start: .420em;
     margin-block-end: .420em;
+}
+
+footer.small {
+    font-size: small;
+}
+
+footer.medium {
+    font-size: medium;
+}
+
+footer.large {
+    font-size: large;
+}
+
+footer.left {
+    text-align: left;
+}
+
+div.bibleBreak {
+    block-size: 1em;
+    display: block;
 }
 
 @media (prefers-color-scheme: dark) {
